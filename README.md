@@ -1,6 +1,10 @@
 # INFORMATION
 ~ WARNING : This plugin should only be used in pvp servers 1.8!
 
+~ This plugin will help you setup knockback while pvping. 
+~ As we know sometimes when you pvp in 1.8 you get some problems like bigger knockback then other players.
+~ In this plugin you can set it up your way and keep it same for everyone.
+
 
 # COMMANDS
 
